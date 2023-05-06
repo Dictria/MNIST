@@ -1,0 +1,7 @@
+/.ipynb_checkpoints
+/mnist/.idea
+/**/dataset
+__pycache__
+/**/*.png
+/**/*.tar.gz
+/**/*.pkl
